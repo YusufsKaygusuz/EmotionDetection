@@ -1,0 +1,12 @@
+keras
+tensorflow
+pandas
+numpy
+h5py
+statistics
+opencv-python
+scipy
+matplotlib
+imageio
+scikit-image
+
